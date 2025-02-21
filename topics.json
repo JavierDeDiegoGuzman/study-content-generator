@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "id": "javascript-basics",
+            "title": "Fundamentos de JavaScript",
+            "subtopics": [
+                "Variables y tipos de datos",
+                "Funciones y scope",
+                "Objetos y arrays",
+                "Control de flujo"
+            ]
+        },
+        {
+            "id": "html-css",
+            "title": "HTML y CSS Básico",
+            "subtopics": [
+                "Estructura HTML",
+                "Selectores CSS",
+                "Box Model",
+                "Flexbox"
+            ]
+        }
+    ]
+} 
